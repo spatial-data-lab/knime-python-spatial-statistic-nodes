@@ -31,17 +31,17 @@ git clone https://github.com/spatial-data-lab/knime-python-spatial-statistic-nod
 
 ### Setup the developing envrionment
 
+See material in the repository.
 
 ### Understand the structure of the project
 
 
 ### Test
 
+[Test guideline ](https://docs.google.com/document/d/1XrJFvqVCreyBGRcP9M-M9afq0l5gFGIMxk_SUpno1yc/edit?usp=sharing)
+## Todo
 
-Test guideline 
-
-[TestReadMe](https://docs.google.com/document/d/1XrJFvqVCreyBGRcP9M-M9afq0l5gFGIMxk_SUpno1yc/edit?usp=sharing)
-
+- [ ] Add Installation and usage instructions
 ## License
 
 ## References

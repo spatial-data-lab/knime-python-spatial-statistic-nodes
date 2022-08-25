@@ -1,6 +1,7 @@
 # knime-python-spatial-statistic-nodes
 
-Spatial statistic nodes plugin for Knime.
+Spatial statistic nodes plugin for Knime. See the document [here](https://docs.knime.com/latest/pure_python_node_extensions_guide/index.html#introduction).
+
 
 ## Installation
 
@@ -29,7 +30,7 @@ views
 git clone https://github.com/spatial-data-lab/knime-python-spatial-statistic-nodes.git
 ```
 
-### Setup the developing envrionment
+### Setup the developing environment
 
 See material in the repository.
 
@@ -42,6 +43,7 @@ See material in the repository.
 ## Todo
 
 - [ ] Add Installation and usage instructions
+- [ ] Add structure details of the project
 ## License
 
 ## References

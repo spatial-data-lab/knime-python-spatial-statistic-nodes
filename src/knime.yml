@@ -1,0 +1,10 @@
+name: spatialstatistic # Will be concatenated with the group_id to an ID
+author: Xiaokang Fu, Hanchen Yu
+env_yml_path: C:\Users\xif626\xiaokang\sdl_project\some_name\my_conda_env.yml # This is necessary for bundling, but not needed during development
+extension_module: spatial_statistic # The .py Python module containing the nodes of your extension
+description: Spatial Statistic Knime Nodes# Human readable bundle name / description
+long_description: This extension is Spatial Statistic Nodes.
+group_id: sdl.harvard
+version: 0.1.0 # Version of this Python node extension
+vendor: SDL, Harvard, Cambridge US
+license_file: LICENSE.TXT # Best practice: put your LICENSE.TXT next to the knime.yml; otherwise you would need to change to path/to/LICENSE.txt

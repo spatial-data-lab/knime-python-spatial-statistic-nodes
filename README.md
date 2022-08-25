@@ -35,30 +35,32 @@ git clone https://github.com/spatial-data-lab/knime-python-spatial-statistic-nod
 See [here](https://docs.google.com/presentation/d/1lZh2QeJ0kcU82CSokTQlLnFwjFE4V57Q/edit?usp=sharing&ouid=102101640576662100418&rtpof=true&sd=true) or the materials folder in the repository
 ### Understand the structure of the project
 
-.
-├── LICENSE
-├── README.md
-├── config.yml
-├── docs
-├── icons
-│   └── icon.png
-├── materials
-│   ├── Build KNIME Python Geospatial tools.pptx
-│   └── DevSetup.pdf
-├── my_conda_env.yml
-├── src
-│   ├── LICENSE.TXT
-│   ├── __init__.py
-│   ├── category.py
-│   ├── icon.png
-│   ├── knime.yml
-│   ├── spatial_statistic.py (should import user defined python module here)
-│   ├── spatial_weights_nodes.py (user defined code here, different contributors can have different module, each module can have several nodes)
-│   └── transformer_nodes.py (user defined code here)
-└── tests
-    ├── GeoExtensionNodes_v0.1.knwf
-    └── data
-        └── baltim.gpkg
+
+    .
+    ├── LICENSE
+    ├── README.md
+    ├── config.yml
+    ├── docs
+    ├── icons
+    │   └── icon.png
+    ├── materials
+    │   ├── Build KNIME Python Geospatial tools.pptx
+    │   └── DevSetup.pdf
+    ├── my_conda_env.yml
+    ├── src
+    │   ├── LICENSE.TXT
+    │   ├── __init__.py
+    │   ├── category.py
+    │   ├── icon.png
+    │   ├── knime.yml
+    │   ├── spatial_statistic.py (should import user defined python module here)
+    │   ├── spatial_weights_nodes.py (user defined code here, different contributors can have different module, each module can have several nodes)
+    │   └── transformer_nodes.py (user defined code here)
+    └── tests
+        ├── GeoExtensionNodes_v0.1.knwf
+        └── data
+            └── baltim.gpkg
+
 
 ### Test
 

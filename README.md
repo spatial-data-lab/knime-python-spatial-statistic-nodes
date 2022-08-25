@@ -26,7 +26,7 @@ views
 ### Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/spatial-data-lab/knime-python-spatial-statistic-nodes.git
 ```
 
 ### Setup the developing envrionment

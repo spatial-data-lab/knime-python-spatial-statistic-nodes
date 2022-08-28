@@ -39,6 +39,9 @@ git clone https://github.com/spatial-data-lab/knime-python-spatial-statistic-nod
 conda create -n my_python_env python=3.9 knime-python-base knime-extension geopandas -c knime -c conda-forge 
 
 conda activate my_python_env
+
+conda install libpysal scipy # if you use these packages, please install here too
+
 conda info
 # Record the env location path such as D:\ProgramData\Anaconda3\envs\my_python_env 
 
@@ -72,7 +75,11 @@ More details see [here](https://docs.google.com/presentation/d/1lZh2QeJ0kcU82CSo
 
 9. Add new file in src folder
 
-10. Make sure you have install all the package in the conda environment too (for example my_python_env environment we created)
+10. Make sure you have install all the package you used in your python script too (for example `libpysal`  )
+
+### Build
+
+
 
 ### Understand the structure of the project
 
